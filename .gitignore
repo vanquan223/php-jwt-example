@@ -1,0 +1,5 @@
+# Ignore installed composer dependencies.
+vendor/
+public.pem
+private.pem
+composer.lock
